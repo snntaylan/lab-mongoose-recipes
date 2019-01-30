@@ -63,13 +63,5 @@ setTimeout(function () {
 
 
 
-Collapse 
 
-Message Input
-
-
-Message Franzi 
-
-Thread
-wdft_ber_jan19
 
